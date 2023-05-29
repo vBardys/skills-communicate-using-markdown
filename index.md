@@ -6,3 +6,6 @@ stuff
 ```powershell
 get-process -name notepad.exe
 ```
+- [ ] sample1
+- [x] sample2
+- [ ] sample3
